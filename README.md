@@ -18,7 +18,7 @@
 #### Läsning
 * [Läs igenom startsidan på react.dev](https://react.dev/)
 * [Läs Getting started fram t o m CSS and Styling på nextjs.org](https://nextjs.org/docs/app/getting-started/installation)
-* [React Foundations](https://nextjs.org/learn/react-foundations)
+* Extra (vi kommer gå igenom detta på annat sätt senare) - [React Foundations](https://nextjs.org/learn/react-foundations)
 #### Youtube
 *
 ## Övriga Länkar
