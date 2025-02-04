@@ -30,7 +30,7 @@
 
 ## Lektioner
 ##### Med tillhörande repon
-* **[Måndag]()** - 
+* **Måndag** - APL-dag
 * **[Tisdag]()** - 
 * **[Onsdag]()** - 
 * **[Torsdag]()** - 
