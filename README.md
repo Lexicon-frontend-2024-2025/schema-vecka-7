@@ -20,7 +20,12 @@
 * [Läs Getting started fram t o m CSS and Styling på nextjs.org](https://nextjs.org/docs/app/getting-started/installation)
 * Extra (vi kommer gå igenom detta på annat sätt senare) - [React Foundations](https://nextjs.org/learn/react-foundations)
 #### Youtube
-*
+* Extra om ni vill ha mer om routing i Next.js [Vercel - Next.js App Router: Routing, Data Fetching, Caching](https://www.youtube.com/watch?v=gSSsZReIFRk)
+##### Extra för er som vill ha ett större projekt att arbeta med. Varning att dessa går snabbt fram och inte är för er som är nybörjare.
+* [Web Dev Simplified - Build A Course Platform LMS With Next.js 15, React 19, Stripe, Drizzle, Shadcn, Postgres](https://www.youtube.com/watch?v=OAyQ3Wyyzfg)
+* [Josh tried coding - Build a Complete E-Commerce Shop with Next.js 14, Tailwind, React | Full Course 2024](https://www.youtube.com/watch?v=SG82Aqcaaa0)
+* [Josh tried coding - Build a Complete SaaS With Next.js, Tailwind, React, Hono.js (2024)](https://www.youtube.com/watch?v=vEQlN17miq8)
+
 ## Övningar
 * 
 ## Slides
@@ -30,7 +35,9 @@
 ##### Med tillhörande repon
 Kan ändras då vi kanske hinner mer/mindre under dagarna.
 * **Måndag** - APL-dag
-* **[Tisdag]()** - Gemensamt: Installera och testa Next.js. Gå igenom strukturen på projektet, namnkonventioner, grundläggande routing. Leka lite med startkoden (CSS, layout, page, meta). 
+* **[Tisdag]()** - Gemensamt: Installera och testa Next.js. Gå igenom strukturen på projektet, namnkonventioner, grundläggande routing. Leka lite med startkoden (CSS modules, layout, page, metadata). 
 * **[Onsdag]()** - Gemensamt: Server fetch (ev loading/streaming), komponenter och props samt Image (ev fonts)
 * **[Torsdag]()** - Gemensamt: searchParams, URLSearchParams (URL state management), mer om routing och ev dynamic routes. Kort om client/server och skillnaden mellan dessa.
 * **[Fredag]()** - Eget arbete med e-learning
+
+Nästa vecka blir det mer om hooks, interaktivitet, use client, server actions och kanske lite om tailwind om vi hinner.
