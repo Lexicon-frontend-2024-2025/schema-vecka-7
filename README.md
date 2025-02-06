@@ -14,7 +14,7 @@
 #### E-Learning:
 #### Utvalda för denna veckan:
 Obs: De kommer säga att ni ska kunna react sedan innan, vilket ni kanske inte kan. Men vi kommer gå igenom detta tillsammans i Next.js.
-* [Next.js - Fundamentals (Fram till och med Working with images, fonts ad styling your app)](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents)
+* [Next.js - Fundamentals (Fram till och med Working with images, fonts and styling your app, resten är extra för de som vill)](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents)
 #### Läsning
 * [Läs igenom startsidan på react.dev](https://react.dev/)
 * [Läs Getting started fram t o m CSS på nextjs.org](https://nextjs.org/docs/app/getting-started/installation)
