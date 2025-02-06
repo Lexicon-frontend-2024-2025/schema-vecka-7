@@ -5,7 +5,7 @@
 
 ## Mål för veckan
 1. Grundläggande förståelse på vad react-biblioteket är och hur next.js är ett ramverk för det
-2. Kunna skapa ett nytt projekt med next.js (inkl nodejs installation)
+2. Kunna skapa ett nytt projekt med next.js
 3. Förstå grundstrukturen med filer och mappar i ett next.js-projekt
 4. Förstå hur man kan ändra och lägga till kod i det nya projektet
 5. Kunna köra igång och testa projektet
@@ -21,8 +21,6 @@
 * Extra (vi kommer gå igenom detta på annat sätt senare) - [React Foundations](https://nextjs.org/learn/react-foundations)
 #### Youtube
 *
-## Övriga Länkar
-* [Installera node.js](https://nodejs.org/en)
 ## Övningar
 * 
 ## Slides
@@ -30,8 +28,9 @@
 
 ## Lektioner
 ##### Med tillhörande repon
+Kan ändras då vi kanske hinner mer/mindre under dagarna.
 * **Måndag** - APL-dag
-* **[Tisdag]()** - 
-* **[Onsdag]()** - 
-* **[Torsdag]()** - 
-* **[Fredag]()** - 
+* **[Tisdag]()** - Gemensamt: Installera och testa Next.js. Gå igenom strukturen på projektet, namnkonventioner, grundläggande routing. Leka lite med startkoden (CSS, layout, page, meta). 
+* **[Onsdag]()** - Gemensamt: Server fetch (ev loading/streaming), komponenter och props samt Image (ev fonts)
+* **[Torsdag]()** - Gemensamt: searchParams, URLSearchParams (URL state management), mer om routing och ev dynamic routes. Kort om client/server och skillnaden mellan dessa.
+* **[Fredag]()** - Eget arbete med e-learning
