@@ -25,6 +25,7 @@
 * [Web Dev Simplified - Build A Course Platform LMS With Next.js 15, React 19, Stripe, Drizzle, Shadcn, Postgres](https://www.youtube.com/watch?v=OAyQ3Wyyzfg)
 * [Josh tried coding - Build a Complete E-Commerce Shop with Next.js 14, Tailwind, React | Full Course 2024](https://www.youtube.com/watch?v=SG82Aqcaaa0)
 * [Josh tried coding - Build a Complete SaaS With Next.js, Tailwind, React, Hono.js (2024)](https://www.youtube.com/watch?v=vEQlN17miq8)
+* [ByteGrad - Build A Next.js SaaS From Scratch (Step-By-Step)](https://www.youtube.com/watch?v=ERGkwdyjtcM)
 
 ## Övningar
 * 
@@ -36,7 +37,7 @@
 Kan ändras då vi kanske hinner mer/mindre under dagarna.
 * **Måndag** - APL-dag
 * **[Tisdag]()** - Gemensamt: Installera och testa Next.js. Gå igenom strukturen på projektet, namnkonventioner, grundläggande routing. Leka lite med startkoden (CSS modules, layout, page, metadata). 
-* **[Onsdag]()** - Gemensamt: Server fetch (ev loading/streaming), komponenter och props samt Image (ev fonts)
+* **[Onsdag]()** - Gemensamt: Server fetch (ev loading/suspense/streaming), komponenter och props samt Image (ev fonts)
 * **[Torsdag]()** - Gemensamt: searchParams, URLSearchParams (URL state management), mer om routing och ev dynamic routes. Kort om client/server och skillnaden mellan dessa.
 * **[Fredag]()** - Eget arbete med e-learning
 
