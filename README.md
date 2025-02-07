@@ -34,8 +34,6 @@ Samtliga finns under [Next.js Path](https://app.pluralsight.com/paths/skill/next
 * Code lab - Guided: Foundations of Next.js 14
 * Code lab - Guided: Creating Pages, Layouts, & Routes in a Next.js Finance Application
 * Extra om ni vill testa lite UI framework och Tailwind - Guided: Styling a Next.js Finance Application with Daisy UI and Tailwind CSS
-## Slides
-* 
 
 ## Lektioner
 ##### Med tillhörande repon
