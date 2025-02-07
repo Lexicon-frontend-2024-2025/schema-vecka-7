@@ -27,6 +27,7 @@ Se fram till och med **"Working with images, fonts and styling your app"**, rest
 * [Josh tried coding - Build a Complete E-Commerce Shop with Next.js 14, Tailwind, React | Full Course 2024](https://www.youtube.com/watch?v=SG82Aqcaaa0)
 * [Josh tried coding - Build a Complete SaaS With Next.js, Tailwind, React, Hono.js (2024)](https://www.youtube.com/watch?v=vEQlN17miq8)
 * [ByteGrad - Build A Next.js SaaS From Scratch (Step-By-Step)](https://www.youtube.com/watch?v=ERGkwdyjtcM)
+* [Sakura Dev - Real Estate App with Next Js 14 | Full Stack Project Tutorial](https://www.youtube.com/watch?v=DEhgtpMxuOQ&list=PLhnVDNT5zYN9ej5u4ftvLYtebI2xVTTyx)
 
 ## Övningar
 Samtliga finns under [Next.js Path](https://app.pluralsight.com/paths/skill/nextjs)
