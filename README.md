@@ -39,9 +39,9 @@ Samtliga finns under [Next.js Path](https://app.pluralsight.com/paths/skill/next
 ##### Med tillhörande repon
 Kan ändras då vi kanske hinner mer/mindre under dagarna.
 * **Måndag** - APL-dag
-* **[Tisdag]()** - Gemensamt: Installera och testa Next.js. Gå igenom strukturen på projektet, namnkonventioner, grundläggande routing. Leka lite med startkoden (CSS modules, layout, page, metadata). 
-* **[Onsdag]()** - Gemensamt: Static Server fetch (ev loading/suspense/streaming), komponenter och props samt Image (ev fonts)
-* **[Torsdag]()** - Gemensamt: searchParams, URLSearchParams (URL state management), mer om routing och ev dynamic routes. Kort om client/server och skillnaden mellan dessa.
+* **Tisdag** - Gemensamt: Installera och testa Next.js. Gå igenom strukturen på projektet, namnkonventioner, grundläggande routing. Leka lite med startkoden (CSS modules, layout, page, metadata). 
+* **Onsdag** - Gemensamt: Static Server fetch (ev loading/suspense/streaming), komponenter och props samt Image (ev fonts)
+* **Torsdag** - Gemensamt: searchParams, URLSearchParams (URL state management), mer om routing och ev dynamic routes. Kort om client/server och skillnaden mellan dessa.
 * **Fredag** - Eget arbete med e-learning
 
 Nästa vecka blir det mer om hooks, interaktivitet, use client, server actions och kanske lite om tailwind om vi hinner.
