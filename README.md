@@ -18,7 +18,7 @@ Se fram till och med **"Working with images, fonts and styling your app"**, rest
 * [Next.js 14: Foundations](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents)
 #### Läsning
 * [Läs igenom startsidan på react.dev](https://react.dev/)
-* [Läs Getting started fram t o m CSS på nextjs.org](https://nextjs.org/docs/app/getting-started/installation)
+* [Läs Getting started fram t o m CSS på nextjs.org (så långt som känns meningsfullt)](https://nextjs.org/docs/app/getting-started/installation)
 * Extra (vi kommer gå igenom detta på annat sätt senare) - [React Foundations](https://nextjs.org/learn/react-foundations)
 #### Youtube
 * Extra om ni vill ha mer om routing i Next.js [Vercel - Next.js App Router: Routing, Data Fetching, Caching](https://www.youtube.com/watch?v=gSSsZReIFRk)
