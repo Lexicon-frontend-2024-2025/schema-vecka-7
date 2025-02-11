@@ -40,7 +40,7 @@ Samtliga finns under [Next.js Path](https://app.pluralsight.com/paths/skill/next
 Kan ändras då vi kanske hinner mer/mindre under dagarna.
 * **Måndag** - APL-dag
 * **[Tisdag](https://github.com/Robert-Lexicon/lektion-11-feb)** - Gemensamt: Installera och testa Next.js. Gå igenom strukturen på projektet. Leka lite med startkoden (CSS modules, layout, page, metadata)  samt Image (ev fonts)
-* **Onsdag** - Gemensamt: fetch, komponenter och props (namnkonventioner, grundläggande routing)
+* **Onsdag** - Gemensamt: routing (nya sidor), fetch, komponenter och props (namnkonventioner, grundläggande routing)
 * **Torsdag** - Gemensamt: React livscykel, hooks. Kort om client/server och skillnaden mellan dessa.
 * **Fredag** - Eget arbete med e-learning
 
